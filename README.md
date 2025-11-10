@@ -191,7 +191,7 @@ ALLOWED_ORIGINS=https://codexphere.com,http://localhost:3000
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/yourusername/codex-passport.git
+git clone https://github.com/cxdexx/codex-passport.git
 cd codex-passport
 npm install
 ```
